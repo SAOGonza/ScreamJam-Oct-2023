@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/StarterContent/Props/MaterialSphere.uasset"
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
