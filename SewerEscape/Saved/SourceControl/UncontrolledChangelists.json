@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/StarterContent/Props/MaterialSphere.uasset",
-				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button_BP.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/61/PHHVJOBE3J8LCTIVTL7ESQ.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button_Click_-_Trim.uasset"
 			]
 		}
 	]
