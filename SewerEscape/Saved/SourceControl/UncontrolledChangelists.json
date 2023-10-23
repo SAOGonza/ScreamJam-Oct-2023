@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Level/SewerLevel.umap",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/190_Tunnel.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/190_Tunnel_DE.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Bars.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_4-Way_Large_Intersection_Segment.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_90_Tunnel.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_Bars_poly.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_Short_Tunnel.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_Short_Tunnel_Circle.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_T_Intersection_Tunnel.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_T_Intersection_Tunnel_Circle.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_Tunnel_poly.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_Large_Tunnel_poly_001.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Long_Tunnel.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Long_Tunnel_DeadEnd.uasset",
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Small_Tunnel_DeadEnd.uasset",
 				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/StarterContent/Props/MaterialSphere.uasset"
 			]
 		}
