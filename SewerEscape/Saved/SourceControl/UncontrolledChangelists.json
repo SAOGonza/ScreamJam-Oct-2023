@@ -5,6 +5,31 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Small_Tunnels_Small_T_Intersection_Tunnel.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Enviornment/M_ButtonFlicker.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button_BP.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button2_BP.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button3_BP.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button4_BP.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/Buttons/Button5_BP.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Level/SewerLevel.umap",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/UI/Win.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/Assets/UI/Menu.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/ThirdPerson/Blueprints/Enemy_AI.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Audio/Music/Fear_-_David_Fesliyan__UE5_WAV_.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Zombie_Attack_Montage.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Export_IK_Rig.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Whiteclown_N_Hallin.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/WhiteClown_material.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/whiteclown_diffuse.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/whiteclown_specular.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/whiteclown_normal.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Whiteclown_N_Hallin_Skeleton.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Whiteclown_N_Hallin_PhysicsAsset.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Zombie_Attack.uasset",
+				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Animations/Running.uasset",
 				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Level/SewerLevel.umap",
 				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Bars.uasset",
 				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Large_Tunnel_Segments_4-Way_Large_Intersection_Segment.uasset",
@@ -38,8 +63,7 @@
 				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/190_Tunnel_DE.uasset",
 				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Long_Tunnel.uasset",
 				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Long_Tunnel_DeadEnd.uasset",
-				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Small_Tunnel_DeadEnd.uasset",
-				"D:/Games/ScreamJam-Oct-2023/SewerEscape/Content/StarterContent/Props/MaterialSphere.uasset"
+				"D:/Github Repository/ScreamJam-Oct-2023/SewerEscape/Content/GameAssets/Models/Small_Tunnel_DeadEnd.uasset"
 			]
 		}
 	]
